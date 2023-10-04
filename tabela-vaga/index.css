@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: green;
+    text-align: center;
+}
+caption {
+    font-weight: 600;
+    font-size: x-large;
+}
+.cabeca {
+    background-color: yellow;
+}
+.nome {
+    background-color: white;
+    color: black;
+}
+tbody td {
+    color: yellow;
+}
+tr span {
+    color: white;
+}
